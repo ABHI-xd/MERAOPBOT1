@@ -25,3 +25,4 @@ tswift
 python-telegram-bot==12.8
 telegraph
 telegram
+python-arq
