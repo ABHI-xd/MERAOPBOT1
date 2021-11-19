@@ -26,3 +26,12 @@ python-telegram-bot==12.8
 telegraph
 telegram
 python-arq
+youtube-search-python==1.4.9
+
+
+
+
+
+
+
+
